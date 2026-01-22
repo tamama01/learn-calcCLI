@@ -98,5 +98,5 @@ while True:
         elif exitChoice == "N" or exitChoice == "n":
             continue
     else:
-        print("Invalid, Try Again.")
+        print("Invalid, try again.")
         continue
